@@ -1,9 +1,9 @@
 # Jawaban Tugas Praktikum Testing
 
 ## 1. Apa saja manfaat automated testing?
-- menghemat waktu development sebuah aplikasi
-- lebih akurat daripada test secara manual
-- dapat mengeksekusi test yang lebih banyak dibandingkan manual
+- Menghemat waktu development sebuah aplikasi
+- Lebih akurat daripada test secara manual
+- Dapat mengeksekusi test yang lebih banyak dibandingkan manual
 
 ## 2. Apakah sebagai Software Developer kamu perlu membuat automated testing untuk setiap app/software yang kamu develop?
 Jika Ya, Mengapa? Sebaliknya jika Tidak, Mengapa?
