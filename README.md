@@ -1,5 +1,8 @@
 # Jawaban Tugas Praktikum Testing
 
+#### NRP : 2072030
+#### Nama : Kevin Laurence
+
 ## 1. Apa saja manfaat automated testing?
 - Menghemat waktu development sebuah aplikasi
 - Lebih akurat daripada test secara manual
